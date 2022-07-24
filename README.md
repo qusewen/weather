@@ -1,1 +1,5 @@
-# weather
+# weather APP
+
+--- 
+
+react, redux
