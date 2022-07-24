@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2aa69f72.css",
-    "main.js": "/static/js/main.1c41c677.js",
-    "static/media/cloud.png": "/static/media/cloud.4515d68e25bd8362f3c0.png",
-    "static/media/precipitation.svg": "/static/media/precipitation.1dc3f1bb365225f0d610edc10c4e3c1e.svg",
-    "static/media/temp.svg": "/static/media/temp.0afb87419db6d1029df212fc7026647a.svg",
-    "static/media/logo.svg": "/static/media/logo.75dbed6f725ec5d544d90cafe9547d21.svg",
-    "static/media/wind.svg": "/static/media/wind.d4ed59afb4ed98220175e1d2acf48371.svg",
-    "static/media/pressure.svg": "/static/media/pressure.b61f40680041707e619bc3db668eea86.svg",
-    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
-    "index.html": "/index.html",
-    "main.2aa69f72.css.map": "/static/css/main.2aa69f72.css.map",
-    "main.1c41c677.js.map": "/static/js/main.1c41c677.js.map"
+    "main.css": "/weather/static/css/main.2aa69f72.css",
+    "main.js": "/weather/static/js/main.a39d01d6.js",
+    "static/media/cloud.png": "/weather/static/media/cloud.4515d68e25bd8362f3c0.png",
+    "static/media/precipitation.svg": "/weather/static/media/precipitation.1dc3f1bb365225f0d610edc10c4e3c1e.svg",
+    "static/media/temp.svg": "/weather/static/media/temp.0afb87419db6d1029df212fc7026647a.svg",
+    "static/media/logo.svg": "/weather/static/media/logo.75dbed6f725ec5d544d90cafe9547d21.svg",
+    "static/media/wind.svg": "/weather/static/media/wind.d4ed59afb4ed98220175e1d2acf48371.svg",
+    "static/media/pressure.svg": "/weather/static/media/pressure.b61f40680041707e619bc3db668eea86.svg",
+    "index.html": "/weather/index.html",
+    "static/media/getFetch.cjs": "/weather/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.2aa69f72.css.map": "/weather/static/css/main.2aa69f72.css.map",
+    "main.a39d01d6.js.map": "/weather/static/js/main.a39d01d6.js.map"
   },
   "entrypoints": [
     "static/css/main.2aa69f72.css",
-    "static/js/main.1c41c677.js"
+    "static/js/main.a39d01d6.js"
   ]
 }
