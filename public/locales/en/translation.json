@@ -1,0 +1,26 @@
+{
+    "title": "React weather",
+    "description":{
+        "part1": "Now",
+        "part2": "Time",
+        "part3": "Country",
+        "part4": "Tempreture",
+        "part5": "Fiels like",
+        "part6": "mmHg",
+        "part7": "Humidity",
+        "part8": "Wind",
+        "part9":"Pressure",
+        "part10": "m/s",
+        "part11": "Date",
+        "part12": "Enter your city",
+        "week6": "Saturday",
+        "week0": "Sunday",
+        "week1":"Monday",
+        "week2":"Tuesday", 
+        "week3":"Wednesday",
+        "week4":"Thursday",
+        "week5": "Friday"
+
+
+    }
+}
